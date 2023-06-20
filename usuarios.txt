@@ -1,0 +1,2 @@
+usuario1,c1
+usuario2,contrasena2
